@@ -1,7 +1,7 @@
-# Rajat Ranjan - Portfolio
+# Jubin Mehta - Portfolio
 
 ## Description
-Description of my all Portfolio and Account over Web
+Description of my all Portfolio and Accounts
 
 |Site|Links|
 |---|---|
