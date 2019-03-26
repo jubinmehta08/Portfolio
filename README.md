@@ -1,24 +1,21 @@
 # Jubin Mehta - Portfolio
 
 ## Description
-Description of my all Portfolio and Accounts
+Description of all my Portfolio and Accounts
 
 |Site|Links|
 |---|---|
 | Linked In | https://www.linkedin.com/in/rajat-ranjan24/|
 |Analytics Vidya | https://datahack.analyticsvidhya.com/user/profile/rajat5ranjan|
-|GitHub| https://github.com/rajat5ranjan/|
-|Kaggle |https://www.kaggle.com/rajatranjan/|
-|HackerRank | https://www.hackerrank.com/rajat5ranjan|
-|HackerEarth|http://www.hackerearth.com/@rajat5ranjan|
-|TechGig	| https://www.techgig.com/rajatranjan7|
-| MachineHack | https://www.machinehack.com/members/rajat5ranjan/|
+|GitHub| https://github.com/jubinmehta08/|
+|Kaggle |https://www.kaggle.com/jubinmehta/|
+|HackerRank | https://www.hackerrank.com/|
+|HackerEarth|http://www.hackerearth.com/|
+|TechGig	| https://www.techgig.com/|
 
 
 
 For more details
 
-|Website | https://boiling-lowlands-55895.herokuapp.com/|
 |---|---|
-|Gmail| rajat5ranjan@gmail.com|
-|Gmail | rajat.ranjan24@gmail.com|
+|Gmail| mehtajubin08@gmail.com|
