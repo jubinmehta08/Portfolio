@@ -9,9 +9,9 @@ Description of all my Portfolio and Accounts
 |Analytics Vidya | https://datahack.analyticsvidhya.com/user/profile/jubinmehta|
 |GitHub| https://github.com/jubinmehta08/|
 |Kaggle |https://www.kaggle.com/jubinmehta/|
-|HackerRank | https://www.hackerrank.com/|
-|HackerEarth|http://www.hackerearth.com/|
-|TechGig	| https://www.techgig.com/|
+|HackerRank | https://www.hackerrank.com/mehtajubin08|
+|HackerEarth|http://www.hackerearth.com/@jubin17|
+|TechGig	| https://www.techgig.com/jubinmehta08|
 
 
 
